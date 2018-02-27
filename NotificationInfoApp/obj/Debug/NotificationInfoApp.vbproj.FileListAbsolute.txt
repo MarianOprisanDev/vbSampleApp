@@ -1,0 +1,13 @@
+c:\users\lvl\source\repos\NotificationInfoApp\NotificationInfoApp\bin\Debug\NotificationInfoApp.exe.config
+c:\users\lvl\source\repos\NotificationInfoApp\NotificationInfoApp\bin\Debug\NotificationInfoApp.exe
+c:\users\lvl\source\repos\NotificationInfoApp\NotificationInfoApp\bin\Debug\NotificationInfoApp.pdb
+c:\users\lvl\source\repos\NotificationInfoApp\NotificationInfoApp\bin\Debug\NotificationInfoApp.xml
+c:\users\lvl\source\repos\NotificationInfoApp\NotificationInfoApp\obj\Debug\NotificationInfoApp.vbprojResolveAssemblyReference.cache
+c:\users\lvl\source\repos\NotificationInfoApp\NotificationInfoApp\obj\Debug\NotificationInfoApp.Main.resources
+c:\users\lvl\source\repos\NotificationInfoApp\NotificationInfoApp\obj\Debug\NotificationInfoApp.Resources.resources
+c:\users\lvl\source\repos\NotificationInfoApp\NotificationInfoApp\obj\Debug\NotificationInfoApp.vbproj.GenerateResource.Cache
+c:\users\lvl\source\repos\NotificationInfoApp\NotificationInfoApp\obj\Debug\NotificationInfoApp.vbproj.CoreCompileInputs.cache
+c:\users\lvl\source\repos\NotificationInfoApp\NotificationInfoApp\obj\Debug\NotificationInfoApp.exe
+c:\users\lvl\source\repos\NotificationInfoApp\NotificationInfoApp\obj\Debug\NotificationInfoApp.xml
+c:\users\lvl\source\repos\NotificationInfoApp\NotificationInfoApp\obj\Debug\NotificationInfoApp.pdb
+c:\users\lvl\source\repos\NotificationInfoApp\NotificationInfoApp\obj\Debug\NotificationInfoApp.History.resources
